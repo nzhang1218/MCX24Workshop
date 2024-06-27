@@ -40,12 +40,12 @@ USA.
 - 8:30-9:30 Breakfast (provided)
 - 9:30-10:15 Meshing using iso2mesh and (demo-only) BlenderPhotonics (**Unit 2A**, [Jupyter Notebook](Training/MCX2024_2A_iso2mesh_training.ipynb))
 - 10:15-11:30 MMCLAB Training (**Unit 2B**, [Jupyter Notebook](Training/MCX2024_2B_mmc_training.ipynb))
-  - 10:15-10:45 Exec 2: Light simulations in human head
-  - 11:45-11:15 Exec 3: Wide-field source modeling in a multi-layered domain
+  - 10:15-10:45 Exec 1: Light simulations in human head
+  - 11:45-11:15 Exec 2: Wide-field source modeling in a multi-layered domain
 - 11:15-11:30 Break
 - 11:30-12:30 PM MMCLAB (**Unit 2B** continued, [Jupyter Notebook](Training/MCX2024_2B_mmc_training.ipynb))
-  - 11:30-12:00 Exec 1: Mesh-data import and export
-  - 12:00-12:30 Exec 2: Loading brain mesh library from NeuroJSON.io
+  - 11:30-12:00 Exec 3: Mesh-data import and export
+  - 12:00-12:30 Exec 4: Loading brain mesh library from NeuroJSON.io
 - 12:30-1:30 PM Lunch break (lunch provided)
 - 1:30-3:30 PM Redbird Training
   - 1:30-2:30: MMCLAB exercises (**Unit 2C**, [Jupyter Notebook](Training/MCX2024_2C_redbird_training.ipynb))
