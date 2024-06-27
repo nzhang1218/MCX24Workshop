@@ -1,3 +1,5 @@
+![Workshop Logo](https://mcx.space/wiki/upload/mcx24_logo.png)
+
 # MCX 2024 Training Workshop
 
 - URL: https://mcx.space/#mcx24
