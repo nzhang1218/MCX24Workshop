@@ -40,8 +40,8 @@ USA.
 
 ### Day 2 (Jun. 30) - [Snell Library 125 (SL125)](https://www.google.com/maps/place/Snell+Library/@42.3383134,-71.0883827,18z/data=!4m6!3m5!1s0x89e37a1999cf5ce1:0x46e17e056ed496c3!8m2!3d42.338587!4d-71.0881225!16s%2Fg%2F11h0gv2c4?entry=ttu)
 - 8:30-9:30 Breakfast (provided)
-- 9:30-10:15 Meshing using iso2mesh and (demo-only) BlenderPhotonics (**Unit 2A**, [Jupyter Notebook](Training/MCX2024_2A_iso2mesh_training.ipynb)) (**Lead by Aiden Lewis**)
-- 10:15-11:30 MMCLAB Training (**Unit 2B**, [Jupyter Notebook](Training/MCX2024_2B_mmc_training.ipynb))
+- 9:30-10:15 Meshing using iso2mesh and (demo-only) BlenderPhotonics (**Unit 2A**, [Jupyter Notebook](Training/MCX2024_2A_iso2mesh_training.ipynb)) (**Lead by Dr. Qianqian Fang**)
+- 10:15-11:30 MMCLAB Training (**Unit 2B**, [Jupyter Notebook](Training/MCX2024_2B_mmc_training.ipynb)) (**Lead by Aiden Lewis**)
   - 10:15-10:45 Exec 1: Light simulations in human head
   - 11:45-11:15 Exec 2: Wide-field source modeling in a multi-layered domain
 - 11:15-11:30 Break
